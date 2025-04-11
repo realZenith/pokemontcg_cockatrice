@@ -1,3 +1,3 @@
-There might be some issues regarding the Alternative Prints not showing up as their real alternative print, granted i dont know how to fix that yet.
+Only downside is that alternative prints arent listed as alt prints yet.
 
-There is an Pokémon TCG List Converter (that converts limitlesstcg decklists) here under this link(https://realzenith.github.io/)
+This new xml should work with limitless/other pokemon deck export sites.
